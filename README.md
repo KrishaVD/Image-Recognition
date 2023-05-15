@@ -19,7 +19,7 @@ Our goal is to create an automated process that kicks off when an image is uploa
 •	Amazon SNS (Simple Notification Service): It's a web service that coordinates and manages the delivery or sending of messages to subscribing endpoints or clients. In this project, SNS is used to send out an email notification that contains the results of the image analysis.
 Project Setup
 
-You can access the complete project on GitHub at `https://github.com/username/repo`. Here are the steps you can follow to set up and run the project locally.
+You can access the complete project on GitHub at `https://github.com/KrishaVD/Image-Recognition.git`. Here are the steps you can follow to set up and run the project locally.
 
 
 **Prerequisites**
